@@ -1,13 +1,12 @@
-# random-recipe-app
-Aplicativo web responsivo que gera receitas aleatórias de diferentes partes do mundo e ensina o usuário a prepará-las rapidamente.
+# 🍽️ Getta Recipe
 
-## 🍽️ Get a Recipe
+Aplicação web que sorteia receitas aleatórias de diferentes partes do mundo e mostra como prepará-las de forma rápida e simples.
 
 O objetivo do projeto é permitir que o usuário descubra novas receitas com apenas um clique.
 
 ---
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 - 🎲 Sorteio aleatório de receitas
 - 🌎 Receitas de diferentes países
@@ -18,7 +17,7 @@ O objetivo do projeto é permitir que o usuário descubra novas receitas com ape
 
 ---
 
-🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - **HTML5**
 - **CSS3**
@@ -27,13 +26,13 @@ O objetivo do projeto é permitir que o usuário descubra novas receitas com ape
 
 ---
 
-📸 Demonstração
+## 📸 Demonstração
 
-<img width="1892" height="920" alt="image" src="https://github.com/user-attachments/assets/2093d6b4-c508-412a-8faf-51abfc252105" />
+<img width="1889" height="918" alt="image" src="https://github.com/user-attachments/assets/eb57b9eb-b5d4-4217-902c-d12289588123" />
 
 ---
 
-📂 Como executar o projeto
+## 📂 Como executar o projeto
 
 1. Clone o repositório
 
@@ -47,7 +46,7 @@ git clone https://github.com/seu-usuario/getta-recipe.git
 
 ---
 
-💡 Objetivo do projeto
+## 💡 Objetivo do projeto
 
 Este projeto foi desenvolvido com fins de aprendizado, praticando:
 
@@ -57,7 +56,7 @@ Este projeto foi desenvolvido com fins de aprendizado, praticando:
 
 ---
 
-📌 Melhorias futuras
+## 📌 Melhorias futuras
 
 - tradução automática das receitas
 - animação ao exibir nova receita
