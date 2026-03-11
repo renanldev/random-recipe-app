@@ -3,8 +3,6 @@ Aplicativo web responsivo que gera receitas aleatórias de diferentes partes do 
 
 🍽️ Get a Recipe
 
-Aplicação web que sorteia receitas aleatórias de diferentes partes do mundo e mostra como prepará-las de forma rápida e simples.
-
 O objetivo do projeto é permitir que o usuário descubra novas receitas com apenas um clique.
 
 ---
