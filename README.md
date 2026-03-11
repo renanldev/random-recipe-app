@@ -31,8 +31,7 @@ O objetivo do projeto é permitir que o usuário descubra novas receitas com ape
 
 📸 Demonstração
 
-![preview do projeto](<img width="1893" height="920" alt="image" src="https://github.com/user-attachments/assets/90925e51-4843-4806-ac29-ad90f86bd3de" />
-)
+<img width="1893" height="920" alt="image" src="https://github.com/user-attachments/assets/90925e51-4843-4806-ac29-ad90f86bd3de" />
 
 ---
 
