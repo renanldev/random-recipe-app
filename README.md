@@ -1,7 +1,7 @@
 # random-recipe-app
 Aplicativo web responsivo que gera receitas aleatórias de diferentes partes do mundo e ensina o usuário a prepará-las rapidamente.
 
-🍽️ Getta Recipe
+🍽️ Get a Recipe
 
 Aplicação web que sorteia receitas aleatórias de diferentes partes do mundo e mostra como prepará-las de forma rápida e simples.
 
